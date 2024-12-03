@@ -1,0 +1,51 @@
+{
+    "questions":[
+        {
+            "id":"1",
+            "title":"what is ts?",
+            "author":"alice",
+            "detail":"I don't know what is ts"
+        },
+        {
+            "id":"2",
+            "title":"what is js?",
+            "author":"alex",
+            "detail":"I don't know what is js"
+        }
+        ,
+        {
+            "id":"3",
+            "title":"what is js?",
+            "author":"alex",
+            "detail":"I don't know what is js"
+        }
+        ,
+        {
+            "id":"4",
+            "title":"what is js?",
+            "author":"alex",
+            "detail":"I don't know what is js"
+        }
+        ,
+        {
+            "id":"5",
+            "title":"what is js?",
+            "author":"alex",
+            "detail":"I don't know what is js"
+        }
+        ,
+        {
+            "id":"6",
+            "title":"what is js?",
+            "author":"alex",
+            "detail":"I don't know what is js"
+        }
+        ,
+        {
+            "id":"7",
+            "title":"what is js?",
+            "author":"alex",
+            "detail":"I don't know what is js"
+        }
+    ]
+}
