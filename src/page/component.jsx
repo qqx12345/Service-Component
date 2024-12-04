@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import Index from './index';
-// import Conversation from './commuication'
+import ChatBox from './commuication'
 import { Disclosure, DisclosureButton, DisclosurePanel } from '@headlessui/react'
 import { Bars3Icon, BellIcon, XMarkIcon } from '@heroicons/react/24/outline'
 import '../output.css'
@@ -87,7 +87,7 @@ import Help from './help';
           </DisclosurePanel>
         </Disclosure>
         {count==1 && <Index/>}
-        {/* {count==2 && <Conversation/>} */}
+        {count==2 && <ChatBox/>}
         {count==3 && <Help/>}
         </div>
       )
